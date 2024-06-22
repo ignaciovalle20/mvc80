@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "AzeB/i4e3h4=",
+  "dgSpecHash": "hYux853Sfyc=",
   "success": true,
-  "projectFilePath": "/Users/ignaciovalle/agrotoken/git/UCU/andis/AspNetCore.Docs/aspnetcore/tutorials/first-mvc-app/start-mvc/sample/8.0-completed/MvcMovie.csproj",
+  "projectFilePath": "/Users/ignaciovalle/agrotoken/git/UCU/andis/AspNetCore.Docs/aspnetcore/tutorials/first-mvc-app/start-mvc/sample/mvc80/MvcMovie.csproj",
   "expectedPackageFiles": [
     "/Users/ignaciovalle/.nuget/packages/azure.core/1.25.0/azure.core.1.25.0.nupkg.sha512",
     "/Users/ignaciovalle/.nuget/packages/azure.identity/1.7.0/azure.identity.1.7.0.nupkg.sha512",

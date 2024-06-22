@@ -8022,11 +8022,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/ignaciovalle/agrotoken/git/UCU/andis/AspNetCore.Docs/aspnetcore/tutorials/first-mvc-app/start-mvc/sample/8.0-completed/MvcMovie.csproj",
+      "projectUniqueName": "/Users/ignaciovalle/agrotoken/git/UCU/andis/AspNetCore.Docs/aspnetcore/tutorials/first-mvc-app/start-mvc/sample/mvc80/MvcMovie.csproj",
       "projectName": "MvcMovie",
-      "projectPath": "/Users/ignaciovalle/agrotoken/git/UCU/andis/AspNetCore.Docs/aspnetcore/tutorials/first-mvc-app/start-mvc/sample/8.0-completed/MvcMovie.csproj",
+      "projectPath": "/Users/ignaciovalle/agrotoken/git/UCU/andis/AspNetCore.Docs/aspnetcore/tutorials/first-mvc-app/start-mvc/sample/mvc80/MvcMovie.csproj",
       "packagesPath": "/Users/ignaciovalle/.nuget/packages/",
-      "outputPath": "/Users/ignaciovalle/agrotoken/git/UCU/andis/AspNetCore.Docs/aspnetcore/tutorials/first-mvc-app/start-mvc/sample/8.0-completed/obj/",
+      "outputPath": "/Users/ignaciovalle/agrotoken/git/UCU/andis/AspNetCore.Docs/aspnetcore/tutorials/first-mvc-app/start-mvc/sample/mvc80/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/ignaciovalle/.nuget/NuGet/NuGet.Config"
